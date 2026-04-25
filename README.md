@@ -76,7 +76,7 @@ Looking for a Python developer with Flask, Machine Learning, and SQL experience.
 
 ## 🎥 Demo Video
 
-(Add your video link here)
+https://drive.google.com/file/d/1wlbkIKb3HRvXrDeUvyC6u2pBdUULlc3w/view?usp=sharing
 
 ---
 
