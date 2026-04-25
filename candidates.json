@@ -1,0 +1,22 @@
+[
+  {"name":"Rahul","skills":["Python","Machine Learning","Flask"],"experience":2,"location":"Hyderabad"},
+  {"name":"Anjali","skills":["Java","Spring Boot","SQL"],"experience":3,"location":"Bangalore"},
+  {"name":"Kiran","skills":["Python","Django","React"],"experience":1,"location":"Chennai"},
+  {"name":"Sneha","skills":["Python","NLP","Deep Learning"],"experience":4,"location":"Hyderabad"},
+  {"name":"Arjun","skills":["C++","Data Structures","Algorithms"],"experience":2,"location":"Pune"},
+  {"name":"Meena","skills":["Python","Data Analysis","Pandas"],"experience":3,"location":"Mumbai"},
+  {"name":"Vikram","skills":["JavaScript","React","Node.js"],"experience":2,"location":"Delhi"},
+  {"name":"Priya","skills":["Python","Flask","SQL"],"experience":1,"location":"Bangalore"},
+  {"name":"Rohit","skills":["Java","Microservices","Spring"],"experience":4,"location":"Hyderabad"},
+  {"name":"Divya","skills":["Machine Learning","TensorFlow","Python"],"experience":3,"location":"Chennai"},
+  {"name":"Suresh","skills":["DevOps","Docker","Kubernetes"],"experience":5,"location":"Pune"},
+  {"name":"Pooja","skills":["UI/UX","Figma","HTML","CSS"],"experience":2,"location":"Mumbai"},
+  {"name":"Naveen","skills":["Python","Django","REST API"],"experience":3,"location":"Delhi"},
+  {"name":"Lakshmi","skills":["Data Science","Python","R"],"experience":4,"location":"Bangalore"},
+  {"name":"Amit","skills":["JavaScript","Angular","TypeScript"],"experience":2,"location":"Chennai"},
+  {"name":"Kavya","skills":["Python","NLP","Transformers"],"experience":3,"location":"Hyderabad"},
+  {"name":"Manoj","skills":["SQL","Database","PostgreSQL"],"experience":2,"location":"Pune"},
+  {"name":"Neha","skills":["Python","Flask","Machine Learning"],"experience":2,"location":"Delhi"},
+  {"name":"Rakesh","skills":["C","Embedded Systems","IoT"],"experience":4,"location":"Chennai"},
+  {"name":"Swathi","skills":["Python","Data Visualization","Tableau"],"experience":3,"location":"Bangalore"}
+]
